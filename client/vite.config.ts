@@ -1,4 +1,5 @@
-import { defineConfig } from "vitest/config";  // ⬅️ این مهمه
+/// <reference types="vitest" />
+import { defineConfig } from "vitest/config";  // ← این
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
