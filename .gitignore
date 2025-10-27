@@ -1,0 +1,13 @@
+# Node (React)
+client/node_modules
+client/dist
+
+# Java (Spring Boot)
+server/target
+server/.idea
+server/.mvn/wrapper/maven-wrapper.jar
+
+# Common junk
+*.log
+.DS_Store
+*.iml
